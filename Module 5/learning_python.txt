@@ -1,0 +1,3 @@
+In Python you can make a video game
+In Python you can model things in the real world
+In Python you can make just about anything
